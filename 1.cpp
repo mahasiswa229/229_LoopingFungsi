@@ -23,5 +23,10 @@ int main()
         cout << "=========" << endl ;
         cout << "KUMPULAN NAMA NAMA" <<;
 
+    for (i = 0 ; i < 5; i++)  
+    {
+        cout << "namanya adalah" << nama[i] << endl;
+    }  
+
 
 }
