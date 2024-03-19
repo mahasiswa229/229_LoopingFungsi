@@ -5,7 +5,7 @@ int main()
 {
 
     int i;
-    string nama[5]
+    string nama[5];
 
 
     for (i = 7 ; i > 0; i--)
@@ -13,15 +13,15 @@ int main()
         cout << i << "." << "bantul" << endl;
     }
     
-    for (i =0; i < 5; i++)
+    for (i = 0; i < 5; i++)
     {
-        cout << "masukan nama";
+        cout << "masukan nama=";
         cin >> nama[i];
     } 
 
     cout << endl;
         cout << "=========" << endl ;
-        cout << "KUMPULAN NAMA NAMA" <<;
+        cout << "KUMPULAN NAMA NAMA" << ;
 
     for (i = 0 ; i < 5; i++)  
     {
