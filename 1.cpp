@@ -20,6 +20,8 @@ int main()
     } 
 
     cout << endl;
+        cout << "=========" << endl ;
+        cout << "KUMPULAN NAMA NAMA" <<;
 
 
 }
