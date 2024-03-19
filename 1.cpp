@@ -25,7 +25,7 @@ int main()
 
     for (i = 0 ; i < 5; i++)  
     {
-        cout << "namanya adalah" << nama[i] << endl;
+        cout << "namanya adalah" << nama[i] << endl; 
     }  
 
 
