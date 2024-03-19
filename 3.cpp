@@ -12,6 +12,7 @@ int main()
         cout << "ibadah" << endl;
 
         cout << "masih idup ga lu?(yes/no)";
+        cin >> pilihan;
     } while (pilihan == "yes");
     
 }
