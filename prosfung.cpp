@@ -23,7 +23,7 @@ void input()
 
 int totalharga()
 {
-    return (nErspo*hErspo)+(nMills*hMills)+(nHoka*hHoka)+(nNike*hNike)
+    return (nErspo*hErspo)+(nMills*hMills)+(nHoka*hHoka)+(nNike*hNike);
 }
 
 void display()
@@ -31,11 +31,14 @@ void display()
     cout <<endl;
     cout << "===========" << endl ;
     cout << endl;
-    cout << "jumlah erspo = " << nErspo
-    cout
+    cout << "jumlah erspo = " << nErspo << endl;
+    cout << "jumlah mills = "  << hMills <<endl;
+    cout << endl;
+    cout << "total harga = Rp." <<totalharga() << endl;
 }
 
 int main()
 {
-
+    input();
+    display();
 }
