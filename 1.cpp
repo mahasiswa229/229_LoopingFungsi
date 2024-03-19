@@ -21,7 +21,7 @@ int main()
 
     cout << endl;
         cout << "=========" << endl ;
-        cout << "KUMPULAN NAMA NAMA" << ;
+        cout << "KUMPULAN NAMA NAMA" << endl;
 
     for (i = 0 ; i < 5; i++)  
     {
